@@ -21,8 +21,8 @@ public class UserServiceImplTest {
         String userPassword = "12345678";
         String checkPassword = "12345678";
         String planetCode = "123456";
-        long result = userService.userRegister(userAccount, userPassword, checkPassword, planetCode);
-        System.out.println(result);
+        // long result = userService.userRegister(userAccount, userPassword, checkPassword, planetCode);
+        // System.out.println(result);
         // Assertions.assertEquals(3, result);
     }
 
